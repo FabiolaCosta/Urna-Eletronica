@@ -1,0 +1,17 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0-windows\UrnaEletronica.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0-windows\UrnaEletronica.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0-windows\UrnaEletronica.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0-windows\UrnaEletronica.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0-windows\UrnaEletronica.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.frmUrna.resources
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\refint\UrnaEletronica.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\ref\UrnaEletronica.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\Uninove\Segundo_Semestre\CSharp\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0-windows\UrnaEletronica.Properties.Resources.resources
