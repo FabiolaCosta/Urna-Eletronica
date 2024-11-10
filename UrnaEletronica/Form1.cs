@@ -106,7 +106,12 @@ namespace UrnaEletronica
 
         private void btnCandidatos_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Anitta - 25 \nGloria Groove - 11 \nLiniker - 04");
+            var msg = "";
+            foreach (var artista in artistas)
+            {
+                msg += artista.Nome + " - " + artista.Id + "\n";
+            }
+            MessageBox.Show(msg);
         }
 
         private void btnConfirmar_Click(object sender, EventArgs e)
